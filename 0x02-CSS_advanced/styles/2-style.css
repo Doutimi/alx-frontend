@@ -1,0 +1,25 @@
+/*add colour to body and making the scroll behaviour smooth*/
+html {
+    scroll-behavior: smooth;
+  }
+
+  /* body*/
+  body {
+    color: #161616;
+  }
+  
+  a {
+    color: #161616;
+  }
+
+  .visually-hidden {
+    display: none;
+  }
+  
+  .card-category {
+    color: #D73953;
+  }
+  
+  .section-tagline {
+   background-color: #D73953;
+  }
